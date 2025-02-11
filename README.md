@@ -3,9 +3,8 @@
 
 # Software And Tools Requirement
 1. Github Account
-2. HerokuAccount
-3. VSCodeIDE
-4. GitCLI
+2. VSCodeIDE
+
 
 Create a new environment
 '''
